@@ -7,10 +7,8 @@ tags: [Starting Point]
 render_with_liquid: false
 ---
 
-## Descriptions
+## Hit the trail and start walking!
 
-Writing all the cool things about technology. To Research, Decode & Store.
-
-
+Writing all the cool things about Hacks n Technology. To Research, Decode n Store.
 
 
