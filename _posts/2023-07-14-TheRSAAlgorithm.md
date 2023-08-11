@@ -78,13 +78,10 @@ The encrypted message is the concatenation of the resulting ciphertext values: 8
 
 ```
 
-## The Decoding
+## The Decryption 
 ```
 
-In this exercise, we will encrypt plaintext "clubman".
-
-Plaintext: "clubman"
-Numerical values: 2-11-20-1-12-0-13
+Decrypting the ciphertext values: 8-1331-1746-1-1728-0-2197.
 
 The formula
 Modular Exponentiation Calculator (Numerical values)^d mod n
