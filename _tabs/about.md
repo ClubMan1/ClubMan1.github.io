@@ -12,4 +12,4 @@ Licenses & certifications: CISSP, GCED
 
 ## History & Experience
 
-Coming soon. . . 
+
