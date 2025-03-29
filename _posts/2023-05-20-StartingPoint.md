@@ -9,6 +9,5 @@ render_with_liquid: false
 
 ## Hit the trail and start walking!
 
-Writing all the cool things about Hacks n Technology. To Research, Decode n Store.
-
-
+To Research, Decode n Store.
+Documenting my learning journey and striving to do better.
